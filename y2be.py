@@ -1,5 +1,6 @@
 #Python Youtube downloader 
 #Bryan Vernon 2020
+#must pip install pytube for this script to work
 
 from pytube import YouTube
 
